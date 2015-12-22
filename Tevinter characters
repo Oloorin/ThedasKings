@@ -1,0 +1,1018 @@
+## House Pavus - dynasty 1001 #canon
+1001001={
+	name = "Halward" #canon
+	dynasty = 1001
+
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+
+	add_trait = "grey_eminence"
+	add_trait = "depressed"
+	add_trait = "quick"
+	add_trait = "proud"
+	add_trait = "deceitful"
+	
+	8895.1.1 ={
+		birth = yes 
+	}
+	
+	8974.1.1 ={
+		death = yes
+	}
+}
+
+1001002={
+	name = "Aquinea" #canon
+	dynasty = 1001
+	female = yes
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+
+	add_trait = "dutiful_cleric"
+	add_trait = "fair"
+	add_trait = "diligent"
+	add_trait = "kind"
+	
+	8900.1.1 ={
+		birth = yes #canon
+	}
+	
+	8974.1.1 ={
+		death = yes #not canon
+	}
+}
+
+1001003={
+	name = "Dorian" #canon
+	dynasty = 1001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+
+	father = 1001001
+	mother = 1001002
+	
+	add_trait = "flamboyant_schemer"
+	add_trait = "cynical"
+	add_trait = "homosexual"
+	add_trait = "quick"
+	health = 1000
+	
+	8917.1.1 ={
+		birth = yes #canon
+	}
+	
+	8974.1.1 ={
+		death = yes #not canon
+	}
+}
+
+## House Alexius - dynasty 2001 #canon
+2001001={
+	name = "Gereon" #canon
+	dynasty = 2001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	add_trait = "elusive_shadow"
+	add_trait = "proud"
+	add_trait = "diligent"
+	add_trait = "wrothful"
+	
+	8902.1.1={
+		birth = yes #not canon
+	}
+	
+	8982.1.1={
+		death = yes #not canon
+	}
+}
+
+2001002={
+	name = "Livia" #canon
+	dynasty = 2001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	add_trait = "elusive_shadow"
+	add_trait = "fair"
+	add_trait = "kind"
+	
+	8905.1.1={
+		birth = yes #not canon
+	}
+	
+	8982.1.1={
+		death = yes #not canon
+	}
+}
+
+2001003={
+	name = "Felix" #canon
+	dynasty = 2001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	add_trait = "shy"
+	add_trait = "diligent"
+	add_trait = "honest"
+	
+	father = 2001001
+	mother = 2001002
+	
+	8920.1.1={
+		birth = yes #not canon
+	}
+	
+	8990.1.1={
+		death = yes #not canon
+	}
+}
+
+## House Tilani - dynasty 5001 #canon
+
+5001001={
+	name = "Maevaris" #canon
+	dynasty = 5001
+	female = yes
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	add_trait = "deceitful"
+	add_trait = "diligent"
+	add_trait = "lustful"
+	
+	8908.1.1={
+		birth = yes #not canon
+	}
+	
+	8980.1.1={
+		death = yes #not canon
+	}
+}
+
+## House Servis - dynasty 6001 #canon
+
+6001001={
+	name = "Crassius" #canon
+	dynasty = 6001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8912.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+## House Valentius - dynasty 3001 #canon
+
+3001001={
+	name = "Novan" 
+	dynasty = 3001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8902.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+## House Aclassi - dynasty 4001 #canon
+
+4001001={
+	name = "Antonius" 
+	dynasty = 4001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8905.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+## House Avilius - dynasty 7001 #canon
+
+7001001={
+	name = "Artorius"
+	dynasty = 7001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8905.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+## House Balbus - dynasty 8001 #canon
+
+8001001={
+	name = "Cortus" 
+	dynasty = 8001
+	
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8909.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+## House Erimond - dynasty 9001 #canon
+
+9001001={
+	name = "Livius" 
+	dynasty = 9001
+	
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8909.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+## House Caelius - dynasty 10001 #custom
+
+10001001={
+	name = "Aeliana" 
+	dynasty = 10001
+	female = yes
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8909.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+## House Gaius dynasty 11001 #custom
+
+11001001={
+	name = "Pontus" 
+	dynasty = 11001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8892.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+## House Cassius dynasty 12001 #custom
+
+12001001={
+	name = "Atticus" 
+	dynasty = 12001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8886.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+## House Cato dynasty 13001 #custom
+
+13001001={
+	name = "Aurelius" 
+	dynasty = 13001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8886.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+## House Cnaeus dynasty 14001 #custom
+
+14001001={
+	name = "Horatio" 
+	dynasty = 14001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8897.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	
+	## House Crispinus dynasty 15001 #custom
+
+15001001={
+	name = "Laelia" 
+	dynasty = 15001
+	female = yes
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8910.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Decimus dynasty 16001 #custom
+
+16001001={
+	name = "Lucius" 
+	dynasty = 16001
+	female = yes
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8902.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	
+	## House Domitian dynasty 17001 #custom
+
+17001001={
+	name = "Marcus" 
+	dynasty = 17001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8911.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+    ## House Drusus dynasty 18001 #custom
+	
+18001001={
+	name = "Maximus" 
+	dynasty = 18001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	martial = 30
+	
+	8900.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+    ## House Duilius dynasty 19001 #custom
+	
+19001001={
+	name = "Mila" 
+	dynasty = 19001
+	female = yes
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	trait = ugly
+	
+	8893.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+	## House Fabia dynasty 20001 #custom
+	
+20001001={
+	name = "Octavius" 
+	dynasty = 20001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8899.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Faustus dynasty 21001 #custom
+	
+21001001={
+	name = "Philo" 
+	dynasty = 21001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8889.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+	
+	## House Flavian dynasty 22001 #custom
+	
+22001001={
+	name = "Quintus" 
+	dynasty = 22001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8879.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Gallus dynasty 23001 #custom
+	
+23001001={
+	name = "Remus" 
+	dynasty = 23001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8885.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Germana dynasty 24001 #custom
+
+24001001={
+	name = "Septimus" 
+	dynasty = 24001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8900.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Gratian dynasty 25001 #custom
+
+25001001={
+	name = "Tatiana" 
+	dynasty = 25001
+	female = yes
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8907.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Herminia dynasty 26001 #custom
+	
+26001001={
+	name = "Tiberius" 
+	dynasty = 26001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8910.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Hilarius dynasty 27001 #custom
+
+27001001={
+	name = "Nero" 
+	dynasty = 27001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8880.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Horatius dynasty 28001 #custom
+
+28001001={
+	name = "Cornelius" 
+	dynasty = 28001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8887.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Jovian dynasty 29001 #custom
+
+29001001={
+	name = "Cyprian" 
+	dynasty = 29001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8892.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Iulia dynasty 30001 #custom
+
+30001001={
+	name = "Clemensia" 
+	dynasty = 30001
+	female = yes
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8902.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Juvenus dynasty 31001 #custom
+
+31001001={
+	name = "Equitius" 
+	dynasty = 31001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8908.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Laelius dynasty 32001 #custom
+
+32001001={
+	name = "Numicius" 
+	dynasty = 32001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8901.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Livius dynasty 33001 #custom
+	
+33001001={
+	name = "Numicius" 
+	dynasty = 33001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8885.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Lucilius dynasty 34001 #custom
+
+340001001={
+	name = "Marius" 
+	dynasty = 34001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8895.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Marcia dynasty 35001 #custom
+
+350001001={
+	name = "Livius" 
+	dynasty = 35001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8897.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Marianus dynasty 36001 #custom
+
+360001001={
+	name = "Fulvius" 
+	dynasty = 36001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8891.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Maxima dynasty 37001 #custom
+
+370001001={
+	name = "Sergius" 
+	dynasty = 37001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8893.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Nevio dynasty 38001 #custom
+
+380001001={
+	name = "Sextius" 
+	dynasty = 38001
+	feùale = yes
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8909.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Nonus dynasty 390001 #custom
+
+390001001={
+	name = "Petronius" 
+	dynasty = 39001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8902.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Otho dynasty 400001 #custom
+
+400001001={
+	name = "Titinius" 
+	dynasty = 40001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8900.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Ovid dynasty 410001 #custom
+
+410001001={
+	name = "Numerius" 
+	dynasty = 41001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8892.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Paulus dynasty 420001 #custom
+
+420001001={
+	name = "Numerius" 
+	dynasty = 42001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8892.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Pontius dynasty 430001 #custom
+
+430001001={
+	name = "Flavia" 
+	dynasty = 43001
+	female = yes
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8882.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+## House Porcius dynasty 440001 #custom
+
+440001001={
+	name = "Caecilius" 
+	dynasty = 44001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8882.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Priscus dynasty 450001 #custom
+
+450001001={
+	name = "Atius"
+	dynasty = 45001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8889.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Quintinus dynasty 460001 #custom
+
+460001001={
+	name = "Atius"
+	dynasty = 46001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8896.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Regulus dynasty 470001 #custom
+
+470001001={
+	name = "Calidius"
+	dynasty = 47001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8897.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Sabina dynasty 480001 #custom
+
+480001001={
+	name = "Curius"
+	dynasty = 48001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8898.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Seneca dynasty 490001 #custom
+
+490001001={
+	name = "Geminius"
+	dynasty = 49001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8901.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
+	## House Servius dynasty 500001 #custom
+
+500001001={
+	name = "Vipsanius"
+	dynasty = 50001
+	
+	religion = "imperial_chantry" 
+	culture = "imperial_tevinter" 
+	
+	8903.1.1={
+		birth = yes #not canon
+	}
+	
+	8985.1.1={
+		death = yes #not canon
+	}
+}
+
